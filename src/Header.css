@@ -1,0 +1,39 @@
+.header_{
+    padding: 10px;
+    padding-bottom: 0px;
+    display: flex;
+    background-color: ivory;
+}
+.navbar-brand{
+    color: #E1701A !important;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    text-shadow: 2px 2px rgb(0, 0, 0,0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.active{
+    text-shadow: 1px 1px rgb(0, 0, 0,0.5);
+    margin-right: 25px;
+}
+.divleft > p{
+    margin-left: 25px;
+}
+.spc{
+    padding-left: 10px;
+}
+
+.btn-outline-warning{
+    color: black;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 700;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 600px) {
+    .divider {
+        display: none;
+    }
+  }

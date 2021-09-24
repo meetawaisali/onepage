@@ -1,0 +1,9 @@
+.d-flex{
+    padding: 20px;
+    height: 70px;
+}
+.vr{
+    width: 3px;
+    background-color: black;
+    opacity: 0.70;
+}

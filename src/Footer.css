@@ -1,0 +1,46 @@
+.footer{
+    background-color: #FFDA77;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.foot-logo .logo{
+    color: #E1701A !important;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-weight: 700;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.abt{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 110px;
+}
+.abtt{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.icon1{
+    margin-left: 50px;
+    font-size: 30px;
+}
+.icon2{
+    margin-left: 50px;
+    font-size: 30px;
+}
+@media screen and (max-width: 600px) {
+    .footer {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+
